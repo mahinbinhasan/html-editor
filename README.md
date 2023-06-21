@@ -1,6 +1,6 @@
 # M Html Editor
 It's an offline HTML editor software
-![snap.png](Other/snap.png)
+![snap.png](Other/snap.PNG)
 <br>
 
 
